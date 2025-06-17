@@ -5,7 +5,9 @@ Full Stack Job application portal built using MERN stack, Focusing on simplifyin
 
 💻 Built with
 Frontend: React.js, Redux
+
 Backend: Node.js, Express.js
+
 Database: MongoDB
 Styling: Tailwind CSS, Material UI, Mantine UI
 
