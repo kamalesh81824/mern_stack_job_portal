@@ -9,30 +9,3 @@ Backend: Node.js, Express.js
 Database: MongoDB
 Styling: Tailwind CSS, Material UI, Mantine UI
 
-Installation
-Clone the repository to your local machine:
-
-git clone https://github.com/kamalesh8184/mern_stack_job_portal.git 
-Change into the frontend directory:
-
-cd client
-Install the frontend dependencies:
-
-npm install
-Run the development server:
-
-npm run dev
-Return to the main directory and change into the backend directory:
-
-cd ..
-cd server
-Install the backend dependencies:
-
-npm install
-Run the development server:
-
-nodemon server.js
-
-Prerequisites
-Node.js: Make sure you have Node.js installed on your computer. You can download it from nodejs.org.
-
